@@ -16,4 +16,4 @@ This guided project will use “Which animal are you?” as the quiz topic. The 
 ## Additional tasks
 - [ ] Allow the player to choose between multiple personality quizzes from the introduction screen.
 - [x] Randomize the order in which the questions are presented, as well as the order of the answers.
-- [x] Allow single-answer and multiple-answer questions to have a dynamic number of answers, rather than always four. Hint: Rather than creating the controls in Interface Builder, you'll need to add/remove labels and controls from stack views programmatically.
+- [x] Allow single-answer and multiple-answer questions to have a dynamic number of answers, rather than always four.
